@@ -29,12 +29,19 @@ Hello, I'm a 22 years old FullStack Developer. I've been learning to code since 
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/eacz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/esteban-canteros-4b7163198/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Estebancanter0s" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/eacz"><img src="https://github-readme-stats.vercel.app/api?username=eacz&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=3382ed&icon_color=6366f1&bg_color=0f172a&hide_border=true&show_icons=true" alt="eacz's GitHub stats" /></a>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eacz&theme=dark" alt="eacz" /></p>
 
-<a href="http://www.github.com/eacz"><img src="https://github-readme-streak-stats.herokuapp.com/?user=eacz&stroke=3382ed&background=0f172a&ring=6366f1&fire=6366f1&currStreakNum=3382ed&currStreakLabel=6366f1&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" /></a>
+
+
+<br />
+
+<a>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eacz&show_icons=true&theme=dark&locale=en" alt="eacz" /></a>
+
+<br />
+
+
 
 <a href="https://github.com/eacz" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eacz&langs_count=10&title_color=6366f1&text_color=3382ed&icon_color=6366f1&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>

@@ -45,3 +45,16 @@ Hello, I'm a 22 years old FullStack Developer. I've been learning to code since 
 
 
 <a href="https://github.com/eacz" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eacz&langs_count=10&title_color=6366f1&text_color=3382ed&icon_color=6366f1&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
+<br />
+
+
+
+<a href="https://github.com/eacz" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eacz&langs_count=10&title_color=6366f1&text_color=3382ed&icon_color=6366f1&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<br />
+
+### Daily.dev Card 🤓
+
+<br />
+<a href="https://app.daily.dev/eacz"><img src="https://api.daily.dev/devcards/08fe45cc4a1846ed8d60c002f7b6b8db.png?r=nv9" width="400" alt="Esteban Canteros's Dev Card"/></a>

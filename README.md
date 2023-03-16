@@ -36,11 +36,7 @@ Hello, I'm a 22 years old FullStack Developer. I've been learning to code since 
 
 
 
-<br />
 
-<a>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eacz&show_icons=true&theme=dark&locale=en" alt="eacz" /></a>
-
-<br />
 
 
 

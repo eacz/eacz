@@ -45,8 +45,3 @@ Hello, I'm a 22 years old FullStack Developer. I've been learning to code since 
 
 <br />
 
-
-### Daily.dev Card 🤓
-
-<br />
-<a href="https://app.daily.dev/eacz"><img src="https://api.daily.dev/devcards/08fe45cc4a1846ed8d60c002f7b6b8db.png?r=nv9" width="400" alt="Esteban Canteros's Dev Card"/></a>

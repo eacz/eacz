@@ -1,10 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Esteban Canteros
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Esteban Canteros
 ========================================================================================================================================
 
 FullStack Web Developer
 -----------------------
 
-Hello, I'm a 24 years old FullStack Developer. I've been learning to code since I'm 16 years old. I Started with programming at highschool with Pascal, then through the next years at school I've been learning logic and fundamentals with different languages such as python, java, c, etc. Finally I decided to focus on web development at 2019, learning javascript and picking it as my main language. Since then I learnt a lot of technologies related to the field of the web, such as node, react, express, typescript, mongodb, and so on. I've got my first job as a web developer in 2021 and since then I've been acquiring experience, collaborating and learning with my pairs.
+Hello, I'm a 24 years old FullStack Developer. I've been learning to code since I'm 16 years old. I started my journey with programming at highschool with Pascal, then through the next years at school I've been learning logic and fundamentals with different languages such as python, java, c, etc. Finally I decided to focus on web development at 2019, learning javascript and picking it as my main language. Since then I learnt a lot of technologies related to the field of the web, such as node, react, express, typescript, mongodb, and so on. I've got my first job as a web developer in 2021 and since then I've been acquiring experience, collaborating and learning with my pairs.
 
 * 🌍  I'm based in Resistencia, Chaco, Argentina
 * ✉️  You can contact me at [estebanacanteros@gmail.com](mailto:estebanacanteros@gmail.com)
@@ -29,18 +29,6 @@ Hello, I'm a 24 years old FullStack Developer. I've been learning to code since 
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/eacz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/esteban-canteros-4b7163198/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-
-<b>My GitHub Stats</b>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eacz&theme=dark" alt="eacz" /></p>
-
-
-
-
-
-
-
-<a href="https://github.com/eacz" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eacz&langs_count=10&title_color=6366f1&text_color=3382ed&icon_color=6366f1&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
 <br />
